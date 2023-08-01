@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(jsonprint)
+library(reverse)
 
-test_check("jsonprint")
+test_check("reverse")
